@@ -1,0 +1,28 @@
+{
+  "name": "automated-testing-task",
+  "version": "1.0.0",
+  "description": "Final task for Epam paltform",
+  "main": "index.js",
+  "scripts": {
+    "wdio": "wdio run src/config/wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loveriik/automated_task.git"
+  },
+  "author": "Aleksandr Lavrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loveriik/automated_task/issues"
+  },
+  "homepage": "https://github.com/Loveriik/automated_task#readme",
+  "devDependencies": {
+    "@wdio/cli": "^9.16.2",
+    "@wdio/local-runner": "^9.16.2",
+    "@wdio/mocha-framework": "^9.16.2",
+    "@wdio/spec-reporter": "^9.16.2",
+    "@wdio/visual-service": "^8.0.4",
+    "chromedriver": "^138.0.0",
+    "wdio-edgedriver-service": "^3.0.3"
+  }
+}
