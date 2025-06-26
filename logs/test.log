@@ -1,0 +1,161 @@
+[2025-06-26T10:43:13.741Z] [INFO] Opening the required browser page
+[2025-06-26T10:43:17.038Z] [INFO] Opening the required browser page
+[2025-06-26T10:43:18.452Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:09.944Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:10.062Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:13.809Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:13.969Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:15.386Z] [INFO] Opening the required browser page
+[2025-06-26T10:44:15.530Z] [INFO] Opening the required browser page
+[2025-06-26T10:49:22.014Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:22.066Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:22.644Z] [INFO] Trying to login without credentials
+[2025-06-26T10:49:22.656Z] [INFO] Trying to login without credentials
+[2025-06-26T10:49:25.940Z] [INFO] Login without credentials completed
+[2025-06-26T10:49:25.941Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:26.051Z] [INFO] Login without credentials completed
+[2025-06-26T10:49:26.055Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:26.058Z] [INFO] Trying to login with username only
+[2025-06-26T10:49:26.174Z] [INFO] Trying to login with username only
+[2025-06-26T10:49:27.551Z] [INFO] Login with username only completed
+[2025-06-26T10:49:27.552Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:27.640Z] [INFO] Login with valid credentials
+[2025-06-26T10:49:27.670Z] [INFO] Login with username only completed
+[2025-06-26T10:49:27.671Z] [INFO] Opening the login browser page
+[2025-06-26T10:49:27.760Z] [INFO] Login with valid credentials
+[2025-06-26T10:49:28.171Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:49:28.510Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:50:22.221Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:22.304Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:23.100Z] [INFO] Trying to login without credentials
+[2025-06-26T10:50:23.139Z] [INFO] Trying to login without credentials
+[2025-06-26T10:50:26.092Z] [INFO] Login without credentials completed
+[2025-06-26T10:50:26.093Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:26.203Z] [INFO] Trying to login with username only
+[2025-06-26T10:50:26.391Z] [INFO] Login without credentials completed
+[2025-06-26T10:50:26.392Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:26.519Z] [INFO] Trying to login with username only
+[2025-06-26T10:50:27.701Z] [INFO] Login with username only completed
+[2025-06-26T10:50:27.701Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:27.795Z] [INFO] Login with valid credentials
+[2025-06-26T10:50:28.006Z] [INFO] Login with username only completed
+[2025-06-26T10:50:28.007Z] [INFO] Opening the login browser page
+[2025-06-26T10:50:28.108Z] [INFO] Login with valid credentials
+[2025-06-26T10:50:28.309Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:50:28.734Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:53:04.856Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:05.042Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:05.534Z] [INFO] Trying to login without credentials
+[2025-06-26T10:53:05.545Z] [INFO] Trying to login without credentials
+[2025-06-26T10:53:08.707Z] [INFO] Login without credentials completed
+[2025-06-26T10:53:08.709Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:08.730Z] [INFO] Login without credentials completed
+[2025-06-26T10:53:08.731Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:08.852Z] [INFO] Trying to login with username only
+[2025-06-26T10:53:09.006Z] [INFO] Trying to login with username only
+[2025-06-26T10:53:10.282Z] [INFO] Login with username only completed
+[2025-06-26T10:53:10.283Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:10.303Z] [INFO] Login with username only completed
+[2025-06-26T10:53:10.304Z] [INFO] Opening the login browser page
+[2025-06-26T10:53:10.396Z] [INFO] Login with valid credentials
+[2025-06-26T10:53:10.420Z] [INFO] Login with valid credentials
+[2025-06-26T10:53:10.922Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:53:11.176Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:57:55.155Z] [INFO] Opening the login browser page
+[2025-06-26T10:57:55.279Z] [INFO] Opening the login browser page
+[2025-06-26T10:57:55.771Z] [INFO] Trying to login without credentials
+[2025-06-26T10:57:55.857Z] [INFO] Trying to login without credentials
+[2025-06-26T10:57:57.588Z] [INFO] Entered test credentials
+[2025-06-26T10:57:57.731Z] [INFO] Entered test credentials
+[2025-06-26T10:57:58.186Z] [INFO] Cleared both test credentials
+[2025-06-26T10:57:58.255Z] [INFO] Clicked the login button
+[2025-06-26T10:57:58.306Z] [INFO] Cleared both test credentials
+[2025-06-26T10:57:58.437Z] [INFO] Clicked the login button
+[2025-06-26T10:57:58.513Z] [INFO] Verified the error container is displayed
+[2025-06-26T10:57:58.707Z] [INFO] Verified the error container is displayed
+[2025-06-26T10:57:58.934Z] [INFO] Verified error message text
+[2025-06-26T10:57:58.934Z] [INFO] Login without credentials completed
+[2025-06-26T10:57:58.935Z] [INFO] Opening the login browser page
+[2025-06-26T10:57:59.170Z] [INFO] Verified error message text
+[2025-06-26T10:57:59.170Z] [INFO] Login without credentials completed
+[2025-06-26T10:57:59.171Z] [INFO] Opening the login browser page
+[2025-06-26T10:57:59.267Z] [INFO] Trying to login with username only
+[2025-06-26T10:57:59.290Z] [INFO] Trying to login with username only
+[2025-06-26T10:58:00.624Z] [INFO] Login with username only completed
+[2025-06-26T10:58:00.625Z] [INFO] Opening the login browser page
+[2025-06-26T10:58:00.716Z] [INFO] Login with valid credentials
+[2025-06-26T10:58:00.778Z] [INFO] Login with username only completed
+[2025-06-26T10:58:00.779Z] [INFO] Opening the login browser page
+[2025-06-26T10:58:00.869Z] [INFO] Login with valid credentials
+[2025-06-26T10:58:01.277Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:58:01.613Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:59:05.041Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:05.253Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:05.536Z] [INFO] UC-1: Trying to login without credentials
+[2025-06-26T10:59:05.756Z] [INFO] UC-1: Trying to login without credentials
+[2025-06-26T10:59:06.953Z] [INFO] UC-1: Entered test credentials
+[2025-06-26T10:59:07.297Z] [INFO] UC-1: Entered test credentials
+[2025-06-26T10:59:07.896Z] [INFO] UC-1: Cleared both test credentials
+[2025-06-26T10:59:08.030Z] [INFO] UC-1: Clicked the login button
+[2025-06-26T10:59:08.112Z] [INFO] UC-1: Cleared both test credentials
+[2025-06-26T10:59:08.250Z] [INFO] UC-1: Clicked the login button
+[2025-06-26T10:59:08.356Z] [INFO] UC-1: Verified the error container is displayed
+[2025-06-26T10:59:08.543Z] [INFO] UC-1: Verified the error container is displayed
+[2025-06-26T10:59:08.793Z] [INFO] UC-1: Verified error message text
+[2025-06-26T10:59:08.793Z] [INFO] UC-1: Login without credentials completed
+[2025-06-26T10:59:08.795Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:09.005Z] [INFO] UC-1: Verified error message text
+[2025-06-26T10:59:09.006Z] [INFO] UC-1: Login without credentials completed
+[2025-06-26T10:59:09.007Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:09.155Z] [INFO] Trying to login with username only
+[2025-06-26T10:59:09.304Z] [INFO] Trying to login with username only
+[2025-06-26T10:59:10.586Z] [INFO] Login with username only completed
+[2025-06-26T10:59:10.586Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:10.678Z] [INFO] Login with valid credentials
+[2025-06-26T10:59:10.788Z] [INFO] Login with username only completed
+[2025-06-26T10:59:10.789Z] [INFO] Opening the login browser page
+[2025-06-26T10:59:10.878Z] [INFO] Login with valid credentials
+[2025-06-26T10:59:11.153Z] [INFO] Login with valid credentials completed
+[2025-06-26T10:59:11.558Z] [INFO] Login with valid credentials completed
+[2025-06-26T11:12:10.704Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:10.728Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:11.463Z] [INFO] UC-1: Starting the test
+[2025-06-26T11:12:11.534Z] [INFO] UC-1: Starting the test
+[2025-06-26T11:12:13.820Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T11:12:13.892Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T11:12:14.486Z] [INFO] UC-1: Verified error message text
+[2025-06-26T11:12:14.487Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:14.556Z] [INFO] UC-1: Verified error message text
+[2025-06-26T11:12:14.557Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:14.594Z] [INFO] UC-2: Strating the test
+[2025-06-26T11:12:14.670Z] [INFO] UC-2: Strating the test
+[2025-06-26T11:12:15.514Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T11:12:15.566Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T11:12:16.083Z] [INFO] UC-2: Verified error message text
+[2025-06-26T11:12:16.083Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:16.117Z] [INFO] UC-2: Verified error message text
+[2025-06-26T11:12:16.117Z] [INFO] Opening the login browser page
+[2025-06-26T11:12:16.181Z] [INFO] UC-3: Strating the test
+[2025-06-26T11:12:16.227Z] [INFO] UC-3: Strating the test
+[2025-06-26T11:12:16.746Z] [INFO] UC-2: Submitting valid credentials
+[2025-06-26T11:12:16.759Z] [INFO] Page title is verified
+[2025-06-26T11:12:16.929Z] [INFO] UC-2: Submitting valid credentials
+[2025-06-26T11:12:16.936Z] [INFO] Page title is verified
+[2025-06-26T11:40:39.151Z] [INFO] UC-1: Starting the test
+[2025-06-26T11:40:39.190Z] [INFO] UC-1: Starting the test
+[2025-06-26T11:40:41.489Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T11:40:41.727Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T11:40:42.216Z] [INFO] UC-1: Verified error message text
+[2025-06-26T11:40:42.324Z] [INFO] UC-2: Starting the test
+[2025-06-26T11:40:42.466Z] [INFO] UC-1: Verified error message text
+[2025-06-26T11:40:42.588Z] [INFO] UC-2: Starting the test
+[2025-06-26T11:40:43.202Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T11:40:43.436Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T11:40:43.809Z] [INFO] UC-2: Verified error message text
+[2025-06-26T11:40:43.904Z] [INFO] UC-3: Starting the test
+[2025-06-26T11:40:44.025Z] [INFO] UC-2: Verified error message text
+[2025-06-26T11:40:44.110Z] [INFO] UC-3: Starting the test
+[2025-06-26T11:40:44.397Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T11:40:44.421Z] [INFO] Page title is verified
+[2025-06-26T11:40:44.826Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T11:40:44.832Z] [INFO] Page title is verified
