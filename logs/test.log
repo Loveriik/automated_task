@@ -159,3 +159,57 @@
 [2025-06-26T11:40:44.421Z] [INFO] Page title is verified
 [2025-06-26T11:40:44.826Z] [INFO] UC-3: Submitting valid credentials
 [2025-06-26T11:40:44.832Z] [INFO] Page title is verified
+[2025-06-26T16:55:36.871Z] [INFO] UC-1: Starting the test
+[2025-06-26T16:55:36.959Z] [INFO] UC-1: Starting the test
+[2025-06-26T16:55:39.403Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T16:55:39.475Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T16:55:40.081Z] [INFO] UC-1: Verified error message text
+[2025-06-26T16:55:40.228Z] [INFO] UC-1: Verified error message text
+[2025-06-26T16:55:40.360Z] [INFO] UC-2: Starting the test
+[2025-06-26T16:55:40.377Z] [INFO] UC-2: Starting the test
+[2025-06-26T16:55:41.194Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T16:55:41.233Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T16:55:41.722Z] [INFO] UC-2: Verified error message text
+[2025-06-26T16:55:41.812Z] [INFO] UC-3: Starting the test
+[2025-06-26T16:55:41.821Z] [INFO] UC-2: Verified error message text
+[2025-06-26T16:55:41.916Z] [INFO] UC-3: Starting the test
+[2025-06-26T16:55:42.373Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T16:55:42.381Z] [INFO] Page title is verified
+[2025-06-26T16:55:42.642Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T16:55:42.649Z] [INFO] Page title is verified
+[2025-06-26T17:03:26.960Z] [INFO] UC-1: Starting the test
+[2025-06-26T17:03:26.967Z] [INFO] UC-1: Starting the test
+[2025-06-26T17:03:29.484Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T17:03:29.633Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T17:03:30.201Z] [INFO] UC-1: Verified error message text
+[2025-06-26T17:03:30.362Z] [INFO] UC-1: Verified error message text
+[2025-06-26T17:03:30.513Z] [INFO] UC-2: Starting the test
+[2025-06-26T17:03:30.689Z] [INFO] UC-2: Starting the test
+[2025-06-26T17:03:31.388Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T17:03:31.580Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T17:03:31.979Z] [INFO] UC-2: Verified error message text
+[2025-06-26T17:03:32.078Z] [INFO] UC-3: Starting the test
+[2025-06-26T17:03:32.198Z] [INFO] UC-2: Verified error message text
+[2025-06-26T17:03:32.299Z] [INFO] UC-3: Starting the test
+[2025-06-26T17:03:32.547Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T17:03:32.553Z] [INFO] Page title is verified
+[2025-06-26T17:03:33.057Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T17:03:33.068Z] [INFO] Page title is verified
+[2025-06-26T17:07:25.195Z] [INFO] UC-1: Starting the test
+[2025-06-26T17:07:25.269Z] [INFO] UC-1: Starting the test
+[2025-06-26T17:07:27.582Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T17:07:27.908Z] [INFO] UC-1: Submitting empty credentials
+[2025-06-26T17:07:28.333Z] [INFO] UC-1: Verified error message text
+[2025-06-26T17:07:28.611Z] [INFO] UC-2: Starting the test
+[2025-06-26T17:07:28.623Z] [INFO] UC-1: Verified error message text
+[2025-06-26T17:07:28.745Z] [INFO] UC-2: Starting the test
+[2025-06-26T17:07:29.385Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T17:07:29.608Z] [INFO] UC-2: Submitting credentials with username only
+[2025-06-26T17:07:29.945Z] [INFO] UC-2: Verified error message text
+[2025-06-26T17:07:30.038Z] [INFO] UC-3: Starting the test
+[2025-06-26T17:07:30.173Z] [INFO] UC-2: Verified error message text
+[2025-06-26T17:07:30.266Z] [INFO] UC-3: Starting the test
+[2025-06-26T17:07:30.543Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T17:07:30.558Z] [INFO] Page title is verified
+[2025-06-26T17:07:30.965Z] [INFO] UC-3: Submitting valid credentials
+[2025-06-26T17:07:30.970Z] [INFO] Page title is verified
